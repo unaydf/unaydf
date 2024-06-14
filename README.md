@@ -1,4 +1,5 @@
 - 👋 Hi, I’m unaydf
 - 🌱 I’m currently learning Computer Engenieering in Universitat Politècnica de València
-- 📫 How to reach me via this email: unaydavidfigueroa@gmail.com
+- ☕ Currently developing en Java
+- 📫 Contact me via this email: unaydavidfigueroa@gmail.com
 - 😄 Pronouns: he/him
